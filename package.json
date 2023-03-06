@@ -2,6 +2,7 @@
   "name": "ai-chatbot",
   "version": "0.1.0",
   "private": true,
+  "description": "This is a custom AI-based chatbot that answers basic questions about Johnny Depp. Instead of the direct use of the OpenAI API, the bot uses data provided by the author of the program to answer the questions.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
